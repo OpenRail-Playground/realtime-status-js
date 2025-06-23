@@ -1,0 +1,7 @@
+{
+  "name": "redis-client-nodejs",
+  "type": "module",
+  "dependencies": {
+    "redis": "^4.6.7"
+  }
+}
